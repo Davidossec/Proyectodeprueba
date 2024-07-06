@@ -5,7 +5,7 @@ import plotly.express as px
 import altair as alt
 from datetime import time, datetime
 import streamlit as st
-
+#Solo pruebas
 st.markdown('<style>body { background-color: #96305a; }</style>', unsafe_allow_html=True)
 
 st.header('st.write')
